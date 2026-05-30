@@ -55,7 +55,7 @@ GlowBeauty Salon is a full-stack beauty salon web application with online appoin
 
 ### 💇 Hair Styling Collection
 
-![Hair](salon/hair.png)
+![Hair](salon/hair.jsp.png)
 
 ### 💄 Makeup Collection
 
@@ -71,7 +71,7 @@ GlowBeauty Salon is a full-stack beauty salon web application with online appoin
 
 ### 📞 Contact Page
 
-![Contact](salon/contact.png)
+![Contact](salon/contact..png)
 
 ### 🔐 Admin Login
 
